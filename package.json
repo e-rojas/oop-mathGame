@@ -1,0 +1,16 @@
+{
+  "name": "none",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-pipe": "^3.0.0",
+    "cmdify": "0.0.4",
+    "inquirer": "^7.0.4"
+  }
+}
