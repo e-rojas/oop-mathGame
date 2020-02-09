@@ -1,2 +1,2 @@
 # oop-mathGame
- OOP math game questionare using javaScript and nodeJS
+ OOP math game questionare using javaScript and nodeJS and readline.
